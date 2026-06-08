@@ -31,4 +31,4 @@ Wymagany Python 3.x z modułem `tkinter` (jest domyślnie w większości instala
 
 ## Prezentacja
 
-Po uruchomieniu wczytuje się przykładowy graf. Kliknij **„Oblicz najkrótszą drogę"** — wynik pojawi się po lewej, a ścieżka zostanie podświetlona na rysunku grafu.
+Po uruchomieniu wczytuje się przykładowy graf. Kliknij **„Oblicz najkrótszą drogę"** - wynik pojawi się po lewej, a ścieżka zostanie podświetlona na rysunku grafu.
