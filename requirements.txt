@@ -1,0 +1,2 @@
+# Uruchomienie: python app.py
+# Na Linuxie moze byc potrzebne: sudo apt install python3-tk
