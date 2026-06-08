@@ -1,4 +1,4 @@
-# Algorytm Dijkstry — projekt Python
+# Algorytm Dijkstry - projekt Python
 
 Aplikacja z interfejsem graficznym do budowania grafu nieskierowanego i wyszukiwania najkrótszej drogi algorytmem Dijkstry.
 
@@ -15,7 +15,7 @@ Wymagany Python 3.x z modułem `tkinter` (jest domyślnie w większości instala
 
 ## Co robi aplikacja
 
-- budowanie grafu — dodawanie wierzchołków i krawędzi z wagami
+- budowanie grafu - dodawanie wierzchołków i krawędzi z wagami
 - wyświetlanie **listy sąsiedztwa** i **macierzy sąsiedztwa**
 - wybór wierzchołka startowego i docelowego (lista lub kliknięcie na grafie)
 - obliczanie najkrótszej drogi algorytmem Dijkstry
@@ -27,7 +27,7 @@ Wymagany Python 3.x z modułem `tkinter` (jest domyślnie w większości instala
 |------|------|
 | `app.py` | Interfejs graficzny (Tkinter) |
 | `dijkstra.py` | Implementacja algorytmu Dijkstry |
-| `graf.py` | Klasa grafu — lista i macierz sąsiedztwa |
+| `graf.py` | Klasa grafu - lista i macierz sąsiedztwa |
 
 ## Prezentacja
 
