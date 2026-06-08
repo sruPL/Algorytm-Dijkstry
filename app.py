@@ -1,7 +1,7 @@
 """
 Aplikacja graficzna - Algorytm Dijkstry
 Autorzy: Patryk Abel, Aleksander Korsak
-Studenci inzynierii cyberprzestrzeni, Uniwersytet Pomorski w Slupsku
+Studenci inżynierii cyberprzestrzeni, Uniwersytet Pomorski w Slupsku
 """
 
 import tkinter as tk
@@ -27,7 +27,7 @@ KOLOR_SCIEZKA = "#ffd369"
 class AplikacjaDijkstra:
     def __init__(self, root):
         self.root = root
-        self.root.title("Algorytm Dijkstry - projekt UP Slupsk")
+        self.root.title("Algorytm Dijkstry - projekt")
         self.root.geometry("1100x700")
         self.root.configure(bg=KOLOR_TLO)
         self.root.minsize(900, 600)
@@ -58,7 +58,7 @@ class AplikacjaDijkstra:
 
         tk.Label(
             naglowek,
-            text="Patryk Abel  |  Aleksander Korsak  —  Inzynieria cyberprzestrzeni, UP Slupsk",
+            text="Patryk Abel  |  Aleksander Korsak",
             font=("Segoe UI", 10),
             bg=KOLOR_AKCENT,
             fg="#a0a0a0",
